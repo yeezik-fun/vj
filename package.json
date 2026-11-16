@@ -1,0 +1,17 @@
+{
+  "name": "yeezik-vj",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Yeezik LED Wall: grafiche a schermo intero per i video DJ, con sfondi React Bits",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "three": "^0.180.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0"
+  }
+}
